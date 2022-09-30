@@ -1,0 +1,55 @@
+{
+  "language":"French",
+  "general":{
+    "title":"Vendez-nous",
+    "newProduct":"Nouveau Produit",
+    "product":"Produit",
+    "submit":"Envoyer",
+    "loading": "Chargement...",
+    "complete": "Je vous remercie!",
+    "error": "Something went wrong. We're terribly sorry! Please check back later."
+  },
+  "brand":{
+    "name":"Marque",
+    "help":"La marque correspond au fabricant du produit, son nom est généralement visible sur l'avant du boitier ou de l'objectif.",
+    "placeholder":"Nikon, Canon, Leica, ..."
+  },
+  "model":{
+    "name":"Modèle",
+    "help":"Le modèle est généralement affiché sur le devant de l'appreil. Pour les objectifs, vous pouvez indiquer toutes les informations inscrites sur la lentille frontale.",
+    "placeholder":"D800, 5D Mark III, 50mm f1.4 AF, SB-900 flash, ..."
+  },
+  "condition":{
+    "name":"Condition",
+    "help":"Quel est l'état du produit?",
+    "options":{
+      "perfect":"Parfait – Le produit fonctionne sans souci.",
+      "good":"Bon – Le produit a été utilisé, mais fonctionne normalement.",
+      "broken":"Hors Service – Pour pièces détachées.",
+      "unknown":"Je ne sais pas."
+    }
+  },
+  "images":{
+    "name":"Photos",
+    "help":"Ajoutez des photos de votre article pour nous aider à vous donner une meilleure estimation."
+  },
+  "user":{
+    "contactInformation": "Coordonnées",
+    "name":{
+      "name":"Nom",
+      "placeholder":"Mon nom est..."
+    },
+    "phone":{
+      "name":"Téléphone",
+      "placeholder":"Mon numéro de téléphone est..."
+    },
+    "email":{
+      "name":"Email",
+      "placeholder":"exemple@email.com"
+    },
+    "country":{
+      "name":"Pays",
+      "placeholder":"Je suis en..."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "react-form-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "(cd client && npm install) && (cd server && npm install)",
+    "start": "concurrently \"cd client && PORT=3000 npm start\" \"cd server && PORT=3001 npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "concurrently \"cd client && npm run build\" \"cd server && npm run build\"",
+    "start:prod": "cd server && npm run start:prod",
+    "heroku-postbuild": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misacorp/react-form-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Misacorp/react-form-email/issues"
+  },
+  "homepage": "https://github.com/Misacorp/react-form-email#readme",
+  "dependencies": {
+    "concurrently": "^3.5.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}

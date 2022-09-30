@@ -1,0 +1,55 @@
+{
+  "language": "English",
+  "general": {
+    "title": "Sell to Us",
+    "newProduct": "New Product",
+    "product": "Product",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "complete": "Thank you!",
+    "error": "Something went wrong. We're terribly sorry! Please check back later."
+  },
+  "brand": {
+    "name": "Brand",
+    "help": "The brand is the product's manufacturer, whose name can usually be found on the front of the camera or lens.",
+    "placeholder": "Nikon, Canon, Leica, ..."
+  },
+  "model": {
+    "name": "Model",
+    "help": "Camera bodies usually state their model on the front. For lenses you can enter all the text written around the front lens.",
+    "placeholder": "D800, 5D Mark III, 50mm f1.4 AF, SB-900 flash, ..."
+  },
+  "condition": {
+    "name": "Condition",
+    "help": "What condition is the product in?",
+    "options": {
+      "perfect": "Perfect – The product works without flaws.",
+      "good": "Good – The product has been used, but works as intended.",
+      "broken": "Broken – The product is mainly for spare parts.",
+      "unknown": "I don't know."
+    }
+  },
+  "images": {
+    "name": "Images",
+    "help": "Add images of your product to help us make a better offer."
+  },
+  "user": {
+    "contactInformation": "Contact Information",
+    "name": {
+      "name": "Name",
+      "placeholder": "My name is..."
+    },
+    "phone": {
+      "name": "Phone",
+      "placeholder": "My phone number is..."
+    },
+    "email": {
+      "name": "Email",
+      "placeholder": "example@email.com"
+    },
+    "country":  {
+      "name": "Country",
+      "placeholder": "I live in..."
+    }
+  }
+}
